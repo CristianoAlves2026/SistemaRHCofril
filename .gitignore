@@ -1,0 +1,12 @@
+Postgres/
+runtime/
+target/
+nbproject/private/
+*.class
+*.exe
+*.dll
+*.lib
+*.jar
+Thumbs.db
+.DS_Store
+nbactions.xml
